@@ -1,0 +1,20 @@
+.header {
+	text-align: center;
+}
+
+.text {
+	text-align: center;
+	border: 2px solid black;
+	margin: 2cm 4cm 3cm 4cm;
+
+}
+
+.gap {
+	text-align: center;
+	border: 1px dashed black;
+}
+
+.end {
+	text-align: center;
+	border: 1px dashed black;
+}

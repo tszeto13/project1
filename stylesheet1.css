@@ -1,0 +1,81 @@
+.text {
+	position: relative;
+	color: grey;
+}
+
+.good {
+	background-color: #FF9966;
+	color: white;
+	text-align: center;
+	border: dashed 2px grey;
+
+}
+
+.gap {
+	
+	color: #F88379;
+}
+
+.not {
+	color: #FDBCB4;
+	text-align: center;
+}
+
+.that {
+	color: #FF9966;
+	text-align: center;
+}
+
+.good2 {
+	color: #FE6F5E;
+	text-align: center;
+}
+
+.is {
+	color: #2F4F4F;
+	text-align: center;
+}
+
+.still {
+	color: #2F4F4F;
+	text-align: center;
+}
+
+.killer {
+	color: white;
+	background-color: #B2FFFF;
+	text-align: center;
+
+}
+
+.quit {
+	color: red;
+	text-align: center;
+}
+
+.we {
+	background-color: #87A96B;
+	color: white;
+	text-align: center;
+}
+
+.awhile {
+	color: #CCCCFF;
+	text-align: center;
+}
+
+.normal {
+	color: #B0E0E6;
+	text-align: center;
+}
+
+.fight {
+	color: #545AA7;
+	text-align: center;
+}
+
+
+
+
+
+

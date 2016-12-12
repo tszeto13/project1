@@ -1,0 +1,39 @@
+.empty {
+	width: 100px;
+	height: 75px;
+	border: 3px solid yellow;
+	position: center;
+	color: white;
+	background-color: #89CFF0;
+	text-align: center; 
+	font-family: Arial;
+	
+}
+
+.text {
+	font-family: Helvetica;
+	background-color: #FFEFD5;
+	text-align: center;
+}
+
+.gap {
+	background-color: white;
+	color: #FBCEB1;
+}
+
+.killer {
+
+	background-color: white;
+	color: #CD5C5C;
+}
+
+.we { 
+	background-color: white;
+	color: #71BC78;
+ }
+
+ .fight {
+ 	background-color: white;
+	color: #0093AF;
+ }
+

@@ -1,0 +1,94 @@
+.text {
+    position: relative;
+    color: grey;
+    font-family: Helvetica;
+    letter-spacing: 1px;
+}
+
+.good {
+    background-color: #FF9966;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.gap {
+    text-align: center;
+    color: #F88379;
+    letter-spacing: 2px;
+}
+
+.not {
+    color: #FDBCB4;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.that {
+    color: #FF9966;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.good2 {
+    color: #FE6F5E;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.is {
+    color: #2F4F4F;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.still {
+    color: #2F4F4F;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.killer {
+    color: white;
+    background-color: #B2FFFF;
+    text-align: center;
+    letter-spacing: 2px;
+
+}
+
+.quit {
+    color: red;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.we {
+    background-color: #87A96B;
+    color: white;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.awhile {
+    color: #CCCCFF;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.normal {
+    color: #B0E0E6;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+.fight {
+    color: #545AA7;
+    text-align: center;
+    letter-spacing: 2px;
+}
+
+
+
+
+
+

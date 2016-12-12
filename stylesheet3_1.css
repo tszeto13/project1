@@ -1,0 +1,29 @@
+.fixed {
+	background-color: yellow;
+	position: fixed;
+	bottom: 10px;
+	font-family: Courier;
+	font-size: 20px;
+}
+
+.text {
+
+}
+
+.gap {
+	border: 2px dashed black;
+	width: 200px;
+	text-align: center;
+}
+
+.killer {
+	border: 2px dashed black;
+	width: 100px;
+	text-align: center;
+}
+
+.we {
+	border: 2px dashed black;
+	width: 175px;
+	text-align: center;
+}

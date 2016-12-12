@@ -1,0 +1,51 @@
+.title {
+	background-color: #FDBCB4;
+	border: 3px solid #FFFACD;
+	color: white;
+	text-align: center;
+	font-family: TradeGothic;
+	font-size: 70px;
+}
+
+.text {
+	font-family: TradeGothic;
+	text-align: center;
+
+}
+
+.gap {
+	color: #FDBCB4;
+	text-align: center;
+	font-family: Times;
+}
+
+.taste {
+	color: #FDBCB4;
+	font-family: Times;
+}
+
+.killer {
+	font-weight: 3px;
+	letter-spacing: 3px;
+	font-size: 50px;
+}
+
+.we {
+	color: #50C878;
+	text-align: center;
+	font-family: Times;
+	letter-spacing: 2px;
+}
+
+.longer {
+	text-align: center;
+	font-family: Times;
+	color: #708090;
+}
+
+.fight {
+	
+	letter-spacing: 3px;
+	color: #FDBCB4;
+	
+}
